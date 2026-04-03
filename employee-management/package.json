@@ -1,0 +1,15 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "A simple employee management system with APIs for adding, editing, and deleting employee records.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^7.0.3"
+  },
+  "author": "",
+  "license": "ISC"
+}

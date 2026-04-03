@@ -1,0 +1,9 @@
+[
+  {
+    "fullname": "Nguyen Van A",
+    "knoxID": "nv.a",
+    "dept": "Solution Dev Group",
+    "sallary": "1000",
+    "id": "576b4548-6bb1-40fb-a0fb-c7f0de286591"
+  }
+]
